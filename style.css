@@ -1,7 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-family: 'Outfit', sans-serif;
 }
 
 body{
@@ -12,7 +15,7 @@ body{
 .card {
     background-color: hsl(216, 50%, 16%);
     max-width: 24%;
-    margin: 4% auto 2%;
+    margin: 6% auto 1%;
     border-radius: 20px; 
     padding: 1.4%;
 }
